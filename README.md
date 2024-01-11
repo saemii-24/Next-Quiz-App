@@ -1,6 +1,7 @@
 ## 개요
-Next.js 13 학습을 위해 fastcampus 인터넷 강의를 수강하며 만든 퀴즈 앱입니다.<br/>
-<a href="https://next-quiz-app-weld.vercel.app/">**퀴즈 앱🤔 바로가기**</a>
+Next.js 13 학습을 위해 패스트캠퍼스 인터넷 강의를 수강하며 만든 퀴즈 앱입니다.<br/>
+개발에 Next.js 13, tailwind가 사용되었고 배포에는 vercel을 이용했습니다.
+#### 📝<a href="https://next-quiz-app-weld.vercel.app/">**퀴즈 앱 바로가기**</a>
 
 ## 미리보기
 <table>
@@ -11,10 +12,10 @@ Next.js 13 학습을 위해 fastcampus 인터넷 강의를 수강하며 만든 �
     <th>Quiz Page</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/d94173ff-2684-44c9-bdf4-0567f4803246" alt="home page screenshot"/></td>
-    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/664325fe-8e0a-4dac-95e8-37a934dd3761" alt="question page screenshot"/></td>
-    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/3567ecc9-600c-4866-b2a5-f3f08ce0cf37" alt="state page screenshot"/></td>
-    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/f03e1df0-a80f-4442-8118-c9ef6697866f" alt="quiz page screenshot"/></td>
+    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/9d0a72f3-a089-4a35-800d-eea73b04056f" alt="home page screenshot"/></td>
+    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/b0ea74ed-f71b-41da-9048-7f26513f1b07" alt="question page screenshot"/></td>
+    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/51c8e16d-ef97-47d5-b372-1c20e4f97daa" alt="state page screenshot"/></td>
+    <td><img src="https://github.com/saemii-24/Next-Quiz-App/assets/139088277/2499939e-36a7-41b4-88e6-9648aa52f253" alt="quiz page screenshot"/></td>
   </tr>
   </tr>
 </table>
